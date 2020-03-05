@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Kittithada Medium 65 (  65)';
+    src: url('KittithadaMedium65.eot');
+    src: url('KittithadaMedium65.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaMedium65.woff2') format('woff2'),
+        url('KittithadaMedium65.woff') format('woff'),
+        url('KittithadaMedium65.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Agenda';
+    src: url('Agenda-Medium.eot');
+    src: url('Agenda-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Agenda-Medium.woff2') format('woff2'),
+        url('Agenda-Medium.woff') format('woff'),
+        url('Agenda-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PSL-Text';
+    src: url('PSL-Text-Bold.eot');
+    src: url('PSL-Text-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PSL-Text-Bold.woff2') format('woff2'),
+        url('PSL-Text-Bold.woff') format('woff'),
+        url('PSL-Text-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PSL Kittithada Pro ()';
+    src: url('PSLKittithadaProItalic.eot');
+    src: url('PSLKittithadaProItalic.eot?#iefix') format('embedded-opentype'),
+        url('PSLKittithadaProItalic.woff2') format('woff2'),
+        url('PSLKittithadaProItalic.woff') format('woff'),
+        url('PSLKittithadaProItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kittithada Light 45 (  45)';
+    src: url('KittithadaLight45Italic.eot');
+    src: url('KittithadaLight45Italic.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaLight45Italic.woff2') format('woff2'),
+        url('KittithadaLight45Italic.woff') format('woff'),
+        url('KittithadaLight45Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PSL Kittithada Pro ()';
+    src: url('PSLKittithadaPro.eot');
+    src: url('PSLKittithadaPro.eot?#iefix') format('embedded-opentype'),
+        url('PSLKittithadaPro.woff2') format('woff2'),
+        url('PSLKittithadaPro.woff') format('woff'),
+        url('PSLKittithadaPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kittithada Light 45 (  45)';
+    src: url('KittithadaLight45.eot');
+    src: url('KittithadaLight45.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaLight45.woff2') format('woff2'),
+        url('KittithadaLight45.woff') format('woff'),
+        url('KittithadaLight45.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PSL-Text';
+    src: url('PSL-Text-Italic.eot');
+    src: url('PSL-Text-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PSL-Text-Italic.woff2') format('woff2'),
+        url('PSL-Text-Italic.woff') format('woff'),
+        url('PSL-Text-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Agenda';
+    src: url('Agenda-Light.eot');
+    src: url('Agenda-Light.eot?#iefix') format('embedded-opentype'),
+        url('Agenda-Light.woff2') format('woff2'),
+        url('Agenda-Light.woff') format('woff'),
+        url('Agenda-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kittithada Roman 55 (  55)';
+    src: url('KittithadaRoman55.eot');
+    src: url('KittithadaRoman55.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaRoman55.woff2') format('woff2'),
+        url('KittithadaRoman55.woff') format('woff'),
+        url('KittithadaRoman55.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kittithada Medium 65 (  65)';
+    src: url('KittithadaMedium65Italic.eot');
+    src: url('KittithadaMedium65Italic.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaMedium65Italic.woff2') format('woff2'),
+        url('KittithadaMedium65Italic.woff') format('woff'),
+        url('KittithadaMedium65Italic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kittithada Thin 35 (  35)';
+    src: url('KittithadaThin35.eot');
+    src: url('KittithadaThin35.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaThin35.woff2') format('woff2'),
+        url('KittithadaThin35.woff') format('woff'),
+        url('KittithadaThin35.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kittithada Roman 55 ( 55)';
+    src: url('KittithadaRoman55Italic.eot');
+    src: url('KittithadaRoman55Italic.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaRoman55Italic.woff2') format('woff2'),
+        url('KittithadaRoman55Italic.woff') format('woff'),
+        url('KittithadaRoman55Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PSL Kittithada Pro ()';
+    src: url('PSLKittithadaProBold.eot');
+    src: url('PSLKittithadaProBold.eot?#iefix') format('embedded-opentype'),
+        url('PSLKittithadaProBold.woff2') format('woff2'),
+        url('PSLKittithadaProBold.woff') format('woff'),
+        url('PSLKittithadaProBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kittithada Thin 35 (  35)';
+    src: url('KittithadaThin35Italic.eot');
+    src: url('KittithadaThin35Italic.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaThin35Italic.woff2') format('woff2'),
+        url('KittithadaThin35Italic.woff') format('woff'),
+        url('KittithadaThin35Italic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PSL-Text';
+    src: url('PSL-Text-BoldItalic.eot');
+    src: url('PSL-Text-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PSL-Text-BoldItalic.woff2') format('woff2'),
+        url('PSL-Text-BoldItalic.woff') format('woff'),
+        url('PSL-Text-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Agenda';
+    src: url('Agenda-Bold.eot');
+    src: url('Agenda-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Agenda-Bold.woff2') format('woff2'),
+        url('Agenda-Bold.woff') format('woff'),
+        url('Agenda-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kittithada Bold 75 (  75)';
+    src: url('KittithadaBold75Italic.eot');
+    src: url('KittithadaBold75Italic.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaBold75Italic.woff2') format('woff2'),
+        url('KittithadaBold75Italic.woff') format('woff'),
+        url('KittithadaBold75Italic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Kittithada Bold 75 (  75)';
+    src: url('KittithadaBold75.eot');
+    src: url('KittithadaBold75.eot?#iefix') format('embedded-opentype'),
+        url('KittithadaBold75.woff2') format('woff2'),
+        url('KittithadaBold75.woff') format('woff'),
+        url('KittithadaBold75.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PSL Kittithada Pro ()';
+    src: url('PSLKittithadaProBoldItalic.eot');
+    src: url('PSLKittithadaProBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PSLKittithadaProBoldItalic.woff2') format('woff2'),
+        url('PSLKittithadaProBoldItalic.woff') format('woff'),
+        url('PSLKittithadaProBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PSL-Text';
+    src: url('PSL-Text.eot');
+    src: url('PSL-Text.eot?#iefix') format('embedded-opentype'),
+        url('PSL-Text.woff2') format('woff2'),
+        url('PSL-Text.woff') format('woff'),
+        url('PSL-Text.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
